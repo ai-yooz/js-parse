@@ -1,9 +1,10 @@
 
 # js-parse
 
-![License](https://img.shields.io/github/license/ai-yooz/js-parse)
-![GitHub stars](https://img.shields.io/github/stars/ai-yooz/js-parse?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ai-yooz/js-parse?style=social)
+
+[![Stars Badge](https://img.shields.io/github/stars/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/stargazers)
+[![Forks Badge](https://img.shields.io/github/forks/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/network/members)
+[![Downloads Badge](https://img.shields.io/github/downloads/ai-yooz/js-parse/total?color=blue)](https://github.com/ai-yooz/js-parse/releases)
 
 ## Project Description
 
