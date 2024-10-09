@@ -1,5 +1,5 @@
 
-# js-parse
+# js-parse for yooz
 
 
 [![Stars Badge](https://img.shields.io/github/stars/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/stargazers)
@@ -7,7 +7,7 @@
 
 ## Project Description
 
-`js-parse` is a powerful JavaScript library designed for parsing conversational patterns in chatbots. This library allows you to define complex patterns and generate appropriate responses based on user inputs. With support for stop words, keywords, variables, and word categories, `js-parse` provides a comprehensive toolset for developing intelligent chatbots.
+yooz-ml is a powerful JavaScript library designed for parsing conversational patterns in chatbots. This library allows you to define complex patterns and generate appropriate responses based on user inputs. With support for stop words, keywords, variables, and word categories, yooz-ml provides a comprehensive toolset for developing intelligent chatbots.
 
 ## Features
 
@@ -18,26 +18,6 @@
 - **Additional Responses:** Append multiple responses using `!>`.
 - **Word Categories:** Define categories like pronouns and verbs and use them in patterns with `&`.
 - **Support for Multiple Variables:** Use multiple variables in patterns and replace them in responses.
-
-## Installation
-
-First, clone the repository:
-
-```bash
-git clone https://github.com/ai-yooz/js-parse.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd js-parse
-```
-
-Install the necessary packages:
-
-```bash
-npm install
-```
 
 ## Usage
 
