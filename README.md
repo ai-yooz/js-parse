@@ -32,7 +32,7 @@ verbs {is, was, became, went, came}
 pronouns {I, you, he, she, we, they}
 (
     + What is your name?
-    - My name is Youz.
+    - My name is yooz.
 )
 (
     + How are you?
@@ -92,7 +92,7 @@ Retrieve responses based on user messages:
 ```javascript
 const userMessage1 = "What is your name?";
 const response1 = youzParser.getResponse(userMessage1);
-console.log(response1);  // Output: "My name is Youz."
+console.log(response1);  // Output: "My name is yooz."
 
 const userMessage2 = "How's it going?";
 const response2 = youzParser.getResponse(userMessage2);
@@ -127,7 +127,7 @@ Define question and response patterns using `+` for questions and `-` for respon
 ```
 (
     + What is your name?
-    - My name is Youz.
+    - My name is yooz.
 )
 ```
 
@@ -167,7 +167,7 @@ Define stop words using `- {}` to remove unnecessary words from user inputs:
 
 **User Input:** `What is your name?`
 
-**Bot Response:** `My name is Youz.`
+**Bot Response:** `My name is yooz.`
 
 ### Using Variables
 
@@ -186,35 +186,3 @@ Define stop words using `- {}` to remove unnecessary words from user inputs:
 **User Input:** `Tell me about yourself.`
 
 **Bot Response:** `I'm good. Thank you`
-
-## Contribution
-
-Your contributions are highly valued! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/NewFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature/NewFeature`).
-6. Open a Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **GitHub:** [https://github.com/ai-yooz/js-parse](https://github.com/ai-yooz/js-parse)
-
-## Acknowledgements
-
-Thank you to all contributors and users who help improve this project!
-
----
-
-**Developer:** [Your Name](https://github.com/ai-yooz)
-
-**Repository Link:** [https://github.com/ai-yooz/js-parse](https://github.com/ai-yooz/js-parse)
