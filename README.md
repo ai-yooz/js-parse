@@ -1,6 +1,7 @@
 
 # js-parse for yooz
 
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=ai-yooz.js-parse)
 [![Stars Badge](https://img.shields.io/github/stars/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/stargazers)
 [![Forks Badge](https://img.shields.io/github/forks/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/network/members)
 
