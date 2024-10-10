@@ -1,7 +1,6 @@
 
 # js-parse for yooz
 
-![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=informational&label=clones&query=count&url=https://api.github.com/repos/ai-yooz/js-parse/traffic/clones)
 [![Stars Badge](https://img.shields.io/github/stars/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/stargazers)
 [![Forks Badge](https://img.shields.io/github/forks/ai-yooz/js-parse?style=social)](https://github.com/ai-yooz/js-parse/network/members)
 
